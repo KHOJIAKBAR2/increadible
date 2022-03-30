@@ -1,9 +1,8 @@
 @import url("./fonts/stylesheet.css");
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 body {
   background: #e5e5e5;
@@ -374,7 +373,7 @@ header {
   margin-top: -19px;
   margin-left: 27px;
 }
-.worksss{
+.worksss {
   font-weight: 400;
   font-size: 14px;
   line-height: 150%;
@@ -382,10 +381,10 @@ header {
   margin-left: 27px;
   margin-top: -18px;
 }
-.Triaaa{
+.Triaaa {
   margin-top: 30px;
 }
-.workssss{
+.workssss {
   font-weight: 400;
   font-size: 14px;
   line-height: 150%;
@@ -393,7 +392,7 @@ header {
   margin-left: 27px;
   margin-top: -23px;
 }
-.Triaaaa{
+.Triaaaa {
   margin-top: 23px;
 }
 
@@ -535,10 +534,10 @@ header {
 .uc {
   margin-left: 90px;
 }
-.ucplus{
-    position: absolute;
-    margin-left: 393px;
-    margin-top: 16px;
+.ucplus {
+  position: absolute;
+  margin-left: 393px;
+  margin-top: 16px;
 }
 .contro {
   font-weight: 400;
@@ -547,13 +546,12 @@ header {
   color: #404040;
   margin-left: 189px;
 }
-.conto{
+.conto {
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
   color: #404040;
   margin-left: 12px;
-
 }
 .moreinfo {
   margin-top: 16px;
@@ -880,9 +878,8 @@ header {
   justify-content: space-evenly;
   padding-top: 100px;
 }
-.lline{
-   margin-top: -50px;
-  
+.lline {
+  margin-top: -50px;
 }
 .line {
   font-weight: 700;
@@ -890,7 +887,7 @@ header {
   line-height: 44px;
   color: #ffffff;
 }
-.coster{
+.coster {
   padding-left: 280px;
   padding-top: 60px;
 }
@@ -903,7 +900,7 @@ header {
   color: #ffffff;
   margin-left: 30px;
 }
-.costers{
+.costers {
   padding-top: 60px;
 }
 .payy {
@@ -915,7 +912,7 @@ header {
   color: #ffffff;
   margin-left: 25px;
 }
-.prices{
+.prices {
   padding-top: 60px;
   padding-right: 20px;
 }
@@ -928,7 +925,7 @@ header {
   color: #ffffff;
   margin-right: 27px;
 }
-.pricers{
+.pricers {
   padding-top: 60px;
   padding-right: 20px;
 }
@@ -948,7 +945,6 @@ header {
   margin-left: 10px;
   position: relative;
   height: 584px;
-
 }
 .fuel {
   width: 360px;
@@ -972,64 +968,63 @@ header {
   line-height: 16px;
   color: #303030;
 }
-.left{
+.left {
   padding-left: 99px;
-
 }
-.owners{
+.owners {
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
   color: #404040;
 }
-.nataly{
+.nataly {
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
   color: #303030;
 }
-.urist{
+.urist {
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
   color: #404040;
   margin-top: 16px;
 }
-.max{
+.max {
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
   color: #404040;
   padding-top: 32px;
 }
-.maxs{
+.maxs {
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
-  color: #404040; 
+  color: #404040;
 }
-.dot{
-    margin-left: 28px;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
-    color: #404040;
-}
-.maz{
+.dot {
+  margin-left: 28px;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
-  color: #404040; 
+  color: #404040;
+}
+.maz {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #404040;
   margin-top: 16px;
 }
-.relaxend{
+.relaxend {
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
   display: flex;
   align-items: center;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   width: 251px;
   height: 56px;
   background: #273895;
@@ -1038,52 +1033,67 @@ header {
   padding-left: 40px;
   margin-top: 32px;
 }
-.k{
+.k {
   margin-top: 144px;
-  border: 1px solid #DEE6EF;
+  border: 1px solid #dee6ef;
 }
-.mostunder{
+.mostunder {
   margin-top: 30px;
   display: flex;
 }
-.firstnumber{
+
+.blueword {
+  padding-left: 20px;
+}
+.Center {
+  width: 110px;
+  padding-top: 15px;
+}
+.firstnumber {
+  width: 300px;
   margin-left: 48px;
+  padding-top: 15px;
   font-weight: 400;
   font-size: 12px;
-  line-height: 20px;  
+  line-height: 20px;
   color: #303030;
-  
 }
-.moreimeges{
-   margin-left: 602px;
-   margin-top: 20px;
+.moreimeges {
+  margin-left: 470px;
+  margin-top: 20px;
 }
-.snapdragon{
+.snapdragon {
   width: 100%;
   height: 52px;
-  background: #E8EDF3;
+  background: #e8edf3;
+  margin-top: 20px;
+  display: flex;
 }
-.f2021{
+ .f2021 {
   font-weight: 400;
   font-size: 12px;
   line-height: 20px;
-  color: #7A7A7A;
-  margin-top: 45px;
-}
-.g2022{
+  color: #7a7a7a;
+  padding-top: 16px;
+  padding-left: 79px;
+ }
+
+.g2022 {
   font-weight: 400;
   font-size: 10px;
   line-height: 20px;
   text-align: right;
-  color: #7A7A7A; 
-  padding-right: 200px;
-  margin-top: -5px;
+  color: #7a7a7a;
+  padding-left: 541px;
+  padding-top: 16px;
 }
-.h2023{
+
+.h2023 {
   font-weight: 400;
   font-size: 10px;
   line-height: 20px;
   text-align: right;
-  color: #7A7A7A;
-  margin-top: -45px;
-}
+  color: #7a7a7a;
+  padding-top: 16px;
+  padding-left: 16px;
+} 
