@@ -16,6 +16,15 @@ header {
   background-position-y: 180px;
   background-position-x: 810px;
 }
+button {
+  cursor: pointer;
+  transition: ease 0.7s;
+}
+button:hover {
+  outline: 1px solid #273895;
+  background: transparent;
+  color: #273895;
+}
 
 .container {
   margin: 0 auto;
@@ -55,9 +64,11 @@ header {
   line-height: 18px;
   text-align: right;
   color: #303030;
+  padding-top: 15px;
 }
 .btn {
   margin-left: 36px;
+  justify-content: center;
   width: 115px;
   height: 50px;
   font-family: "Gotham Pro";
@@ -66,9 +77,7 @@ header {
   line-height: 18px;
   background: #273895;
   border-radius: 15px;
-  text-align: center;
   border: none;
-
   color: #ffffff;
 }
 .elementry {
@@ -97,15 +106,19 @@ header {
   font-size: 48px;
   line-height: 60px;
   color: #262626;
+
 }
 .part2 {
   font-weight: 400;
   font-size: 14px;
   line-height: 170%;
   color: #303030;
+  padding-top: 15px;
 }
 .try {
   margin-top: 32px;
+  justify-content: center;
+  font-weight: 600;
   width: 268px;
   height: 56px;
   background: #273895;
@@ -156,6 +169,7 @@ header {
   line-height: 150%;
   color: #404040;
   margin-left: 102px;
+  padding-top: 16px;
 }
 .tortalik {
   display: flex;
@@ -428,6 +442,7 @@ header {
   line-height: 150%;
   color: #404040;
   margin-left: 32px;
+  padding-top: 16px;
 }
 .plan {
   margin-top: 144px;
@@ -596,16 +611,18 @@ header {
   margin-left: 75px;
   width: 513px;
   height: 647px;
-  background: #ffffff;
+  background: #ffffff;     /*  fdmdvmdmvdmvmsd */
   border-radius: 20px;
+  padding: 20px;
 }
 .fourstar {
   margin-left: 75px;
-  width: 513px;
-  height: 647px;
+   width: 513px;
+  /*height: 647px; */
   background: #ffffff;
   border-radius: 20px;
   margin-top: 32px;
+  padding: 20px;
 }
 .quality {
   font-weight: 700;
@@ -642,7 +659,7 @@ header {
   padding-left: 66px;
   font-weight: 100px;
   font-size: 16px;
-  line-height: 35px;
+  line-height: 32px;
   color: #404040;
 }
 .frees::before {
@@ -685,6 +702,7 @@ header {
   margin-left: 35px;
   margin-top: 16px;
 }
+
 .blue {
   background-repeat: no-repeat;
   width: 100%;
@@ -701,6 +719,15 @@ header {
   background: #ffffff;
   border-radius: 20px;
 }
+.threee {
+  margin-top: 36px;
+  display: flex;
+  width: 1062px;
+  height: 299px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
 .bord {
   margin-left: 112px;
   margin-top: 67px;
@@ -726,6 +753,7 @@ header {
   font-size: 14px;
   line-height: 20px;
   color: #404040;
+  padding-top: 15px;
 }
 .become {
   margin-top: 32px;
@@ -776,6 +804,7 @@ header {
   line-height: 36px;
   color: #404040;
   margin-left: 32px;
+  padding-top: 16px;
 }
 .feelin {
   font-weight: 400;
@@ -783,7 +812,7 @@ header {
   line-height: 20px;
   color: #404040;
   margin-left: 32px;
-  margin-top: -10px;
+  padding-top: 16px;
 }
 .longer {
   width: 312px;
@@ -807,6 +836,7 @@ header {
   line-height: 36px;
   color: #404040;
   margin-left: 40px;
+  padding-top: 16px;
 }
 .restart {
   font-weight: 400;
@@ -814,6 +844,7 @@ header {
   line-height: 20px;
   color: #404040;
   margin-left: 40px;
+  padding-top: 16px;
 }
 .junior {
   width: 312px;
@@ -833,6 +864,7 @@ header {
   line-height: 36px;
   color: #404040;
   margin-left: 40px;
+  padding-top: 16px;
 }
 .income {
   font-weight: 400;
@@ -840,6 +872,7 @@ header {
   line-height: 20px;
   color: #404040;
   margin-left: 40px;
+  padding-top: 16px;
 }
 .startmoney {
   font-weight: 400;
@@ -856,6 +889,7 @@ header {
   margin-left: 40px;
   padding-left: 30px;
   border: none;
+  margin-top: 16px;
 }
 .insidesic {
   width: 296px;
@@ -876,19 +910,21 @@ header {
   align-items: center;
   display: flex;
   justify-content: space-evenly;
-  padding-top: 100px;
+  margin-top: 144px;
 }
-.lline {
-  margin-top: -50px;
-}
+/* .lline {
+
+  
+} */
 .line {
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
   color: #ffffff;
+  padding-left: 80px;
 }
 .coster {
-  padding-left: 280px;
+  padding-left: 100px;
   padding-top: 60px;
 }
 .pay {
@@ -1030,7 +1066,7 @@ header {
   background: #273895;
   border-radius: 15px;
   border: none;
-  padding-left: 40px;
+  justify-content: center;
   margin-top: 32px;
 }
 .k {
@@ -1069,14 +1105,14 @@ header {
   margin-top: 20px;
   display: flex;
 }
- .f2021 {
+.f2021 {
   font-weight: 400;
   font-size: 12px;
   line-height: 20px;
   color: #7a7a7a;
   padding-top: 16px;
   padding-left: 79px;
- }
+}
 
 .g2022 {
   font-weight: 400;
@@ -1096,4 +1132,4 @@ header {
   color: #7a7a7a;
   padding-top: 16px;
   padding-left: 16px;
-} 
+}
